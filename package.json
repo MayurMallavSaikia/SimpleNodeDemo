@@ -1,0 +1,9 @@
+{
+  "script":{
+    "start": "node script.js"
+  },
+
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
